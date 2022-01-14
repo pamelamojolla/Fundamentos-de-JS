@@ -1,2 +1,17 @@
-const prod1 = {}//par de chave significa um objeto
-const prod2 = []//par de colchete para array
+const prod1 = {}//par de chave significa um objeto 
+const prod85 = []//par de colchete para array
+//objeto é um conjunto de pares de chaves e valores
+prod1.nome = 'Celular Ultra Mega'
+prod1.preco = 4998.90
+prod1['Desconto Legal'] = 0.40 //evitar atributos com espaco
+
+console.log(prod1)
+
+const prod2 = {
+    nome: 'Camisa Polo',
+    preco: 79.90
+}
+
+//você pode colocar um objeto dentro de outro outro objeto
+
+console.log(prod2)
