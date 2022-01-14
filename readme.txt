@@ -1,1 +1,1 @@
-Nesse repositorio serão salvos todas minhas aulas de JS.
+Nesse repositorio serão salvos todas minhas aulas de Fundamentos de JS.
