@@ -1,5 +1,7 @@
 //novo recurso do ES2015
 
+//desestruturando objetos ele usa {}
+
 const pessoa = {
     nome: 'ana',
     idade: 5,
